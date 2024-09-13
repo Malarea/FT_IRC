@@ -16,7 +16,7 @@ Clone the repository and compile it:
 
 ```bash
 git clone https://github.com/Malarea/ft_irc.git
-cd ft_irc
+cd FT_IRC
 make
 ```
 
@@ -40,6 +40,6 @@ Here are some example commands you can use once connected:
 /NICK mynickname
 /JOIN #channelname
 /PRIVMSG #channelname :Hello everyone!
-/PART #channelname
+/KICK username
 /QUIT
 ```

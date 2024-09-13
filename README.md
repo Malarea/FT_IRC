@@ -8,7 +8,7 @@
 - User authentication and management
 - Creation and management of IRC channels
 - Real-time message exchange between users
-- Basic implementation of IRC commands (JOIN, PART, PRIVMSG, etc.)
+- Basic implementation of IRC commands (JOIN, KICK, PRIVMSG, etc.)
 - Complies with IRC protocol RFC 2812
 
 ### Installation

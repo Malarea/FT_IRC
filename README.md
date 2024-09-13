@@ -16,7 +16,7 @@ Clone the repository and compile it:
 
 ```bash
 git clone https://github.com/Malarea/ft_irc.git
-cd ft_irc
+cd FT_IRC
 make
 ```
 

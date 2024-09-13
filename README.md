@@ -40,6 +40,6 @@ Here are some example commands you can use once connected:
 /NICK mynickname
 /JOIN #channelname
 /PRIVMSG #channelname :Hello everyone!
-/PART #channelname
+/KICK username
 /QUIT
 ```
